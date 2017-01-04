@@ -5,8 +5,9 @@ This Data Science Design Pattern provides a starting point for the data scientis
 
 Education is a relatively late adopter of predictive analytics or machine learning as a management tool. Nowadays, a desire for stronger operations is leading universities or government to perform student predictive analysis, which helps in better-informed and faster decision making.
 Student predictive analytics aims to solve two key problems:
-1. Identify students more likely to perform better academically, which helps in optimizing support.
-2. Foresee students at high risk of dropping out thus timely preventing attrition.
+
+- Identify students more likely to perform better academically, which helps in optimizing support.
+- Foresee students at high risk of dropping out thus timely preventing attrition.
 
 Education systems face an enormous diversity across regions and countries. The case studies in Asia show a novel and unique landscape for machine learning in the education world. 
 
