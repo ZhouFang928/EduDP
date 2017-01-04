@@ -1,23 +1,19 @@
-#Introduction 
+# Data Science Design Pattern for Education Analytics
 
-Graham.....
+##Introduction 
+This Data Science Design Pattern provides a starting point for the data scientist exploring a new dataset in the education world by using R. The current version covers two typical use cases:
+- Student Drop-out Prediction
+- Student Score Modeling
 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+By no means is it the endpoint of the data science journey. The pattern is under regular revision and improvement and is provided as is.
 
-#Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+##Getting Started
+To get the code up and running on your own system, you should make sure
+1.	Jupyter Notebook along with Rkernel and Notedown are installed
+2.	R version 3.2 and 3.3 are needed
 
-#Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+##Build and Test
+The code is built by using R Markdown and then converted into Jupyter Notebook by using Notedown. 
 
-#Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://www.visualstudio.com/en-us/docs/git/create-a-readme). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+##Contribute
+Please open and issue if you find something that doesn't work as expected or have questions or suggestions. Note that this project is released with a [Guide to Contributing](CONTRIBUTING.md) and a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
